@@ -1,0 +1,14 @@
+/* make the background black */
+body {
+    background-color: black;
+}
+
+.stream {
+    background-color: black;
+    padding-top: 25%;
+    padding-bottom: 77%;
+}
+
+.navbar-dark .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;..");
+}
